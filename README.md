@@ -1,7 +1,7 @@
 
        
        GoovieTV
-  Create your own set of TV Channels!
+  
   Do you often dont know what to watch? Do you almost ever end
   up watching something stupid on TV or from some Streaming service?
   Here is the solution for you!
@@ -14,7 +14,8 @@
   Take that time to build your own little archiv of Movies and Series. Gather
   your old DVD collection, and save them to your PC. GoovieTV will allow you
   to easily sort huge amounts of Movie and Series collections, and creating your
-  own unique TV Channels with them!
+  own unique TV Channels with them! Create a Channel for Action Movies, Cartoons,
+  Documentations, Christmas time, western, and whatever you can imagine. 
   
   Here is an easy Youtube Tutorial!
   
