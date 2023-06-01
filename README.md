@@ -21,6 +21,7 @@
   Documentations, Christmas time, western, and whatever you can imagine!
   
   Here is an easy Youtube Tutorial:
+  https://www.youtube.com/watch?v=UZi2MPasg6o
   
   Try it out, it is for free =)
   
