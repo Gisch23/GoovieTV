@@ -1,7 +1,8 @@
 
        
        GoovieTV
-  
+  ![T_MainSplash](https://github.com/Gisch23/GoovieTV/assets/23280839/b27d0b3e-0290-4f41-8370-6c981d724ca2)
+
   Do you often dont know what to watch? Do you almost ever end
   up watching something stupid on TV or from some Streaming service?
   
