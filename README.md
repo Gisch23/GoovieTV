@@ -18,7 +18,7 @@
   your old DVD collection, and save them to your PC. GoovieTV will allow you
   to easily sort huge amounts of Movie and Series collections, and creating your
   own unique TV Channels with them! Create a Channel for Action Movies, Cartoons,
-  Documentations, Christmas time, western, and whatever you can imagine. 
+  Documentations, Christmas time, western, and whatever you can imagine!
   
   Here is an easy Youtube Tutorial!
   
