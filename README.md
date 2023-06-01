@@ -20,9 +20,9 @@
   own unique TV Channels with them! Create a Channel for Action Movies, Cartoons,
   Documentations, Christmas time, western, and whatever you can imagine!
   
-  Here is an easy Youtube Tutorial!
+  Here is an easy Youtube Tutorial:
   
-  Try it out, it is for free!
+  Try it out, it is for free =)
   
   King regards, 
   Gisch
