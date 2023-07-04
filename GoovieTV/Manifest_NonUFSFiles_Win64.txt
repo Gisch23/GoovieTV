@@ -1,5 +1,5 @@
 GoovieTV/Binaries/Win64/D3D12/D3D12Core.dll	2023-04-03T15:49:53.769Z
-GoovieTV/Binaries/Win64/GoovieTV-Win64-Shipping.exe	2023-05-28T19:40:21.537Z
+GoovieTV/Binaries/Win64/GoovieTV-Win64-Shipping.exe	2023-06-23T21:27:26.815Z
 GoovieTV/Binaries/Win64/OpenImageDenoise.dll	2023-04-03T15:57:56.082Z
 GoovieTV/Binaries/Win64/boost_atomic-vc142-mt-x64-1_70.dll	2023-04-03T15:57:53.360Z
 GoovieTV/Binaries/Win64/boost_chrono-vc142-mt-x64-1_70.dll	2023-04-03T15:57:53.361Z
@@ -29,4 +29,5 @@ Engine/Plugins/Runtime/nDisplay/ThirdParty/Domeprojection/DLL/WibuCm64.dll	2023-
 Engine/Plugins/Runtime/nDisplay/ThirdParty/Domeprojection/DLL/dpLib.dll	2023-04-03T15:57:39.391Z
 Engine/Plugins/Runtime/nDisplay/ThirdParty/EasyBlend/DLL/mplEasyBlendSDKDX1164.dll	2023-04-03T15:57:39.573Z
 Engine/Plugins/Runtime/nDisplay/ThirdParty/VIOSO/DLL/VIOSOWarpBlend64.dll	2023-04-03T15:57:39.574Z
-GoovieTV.exe	2023-06-11T19:11:03.234Z
+GoovieTV/Content/Movies/Autoload.mp4	2023-06-23T18:47:44.713Z
+GoovieTV.exe	2023-07-04T20:29:10.588Z
